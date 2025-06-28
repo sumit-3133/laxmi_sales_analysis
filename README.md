@@ -45,4 +45,5 @@ KEY QUESTION EXPLORED -
 
 ![Screenshot 2025-06-26 193804](https://github.com/user-attachments/assets/6869b553-a4b7-42db-a4e1-fab8e9e4858a)
 
-
+### CONCLUSION - 
+The Laxmi Sales Analysis reveals a business with a pan-Indian reach, showing a net profit of around ₹37,000 on ₹438,000 expenditure. Madhya Pradesh is the most profitable state, while Andhra Pradesh and Rajasthan are the least. Clothing is the top-performing category, making up 63% of purchases, followed by electronics (21%) and furniture (16%). The owner faced significant losses in October and July of 2018. Customers primarily shop on weekends, preferring Cash on Delivery (COD) and UPI. For clothing, Maharashtra is most profitable, peaking in November on Saturdays. Electronics profit is highest in Madhya Pradesh during January, especially on Mondays and Wednesdays. Furniture sales are strongest in Maharashtra and Gujarat in April, with Sundays being the most profitable day, though Mondays and Fridays see losses. These insights highlight key areas for strategic focus to boost overall profitability.
